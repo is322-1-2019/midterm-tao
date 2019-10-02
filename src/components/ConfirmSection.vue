@@ -4,9 +4,9 @@
             <div class="field">
        <b-button type="is-success">เพิ่มประวัติการทำงาน</b-button>
         </div>
-        
+
       <div class="field">
-        <b-button type="is-success">ลงทะเบียน</b-button>
+        <b-button type="is-success">ต่อไป</b-button>
       </div>
       
     </div>
